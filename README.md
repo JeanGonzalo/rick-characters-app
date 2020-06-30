@@ -1,4 +1,4 @@
-# ponte_rikoso
+# rick_characters
 
 A new Flutter project.
 
